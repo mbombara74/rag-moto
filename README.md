@@ -65,4 +65,4 @@ Il progetto funziona con un singolo documento e un flusso RAG base.
 - Aggiungere citazioni e fonti.
 
 - Il database vettoriale gira nella VM di sviluppo come container Docker.
-- Al momento uso **Qdrant** come vector DB.
+- Al momento uso **Qdrant** come vector DB. Ciccolona.
